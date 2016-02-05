@@ -1,0 +1,16 @@
+{
+  "name": "Flappy Tardis",
+  "description": "When a Whovian gets drunk",
+  "launch_path": "/index.html",
+  "icons": {
+  "16": "/assets/medal_bronze.png",
+  "48": "/assets/medal_bronze.png",
+  "128": "/assets/medal_bronze.png"
+  },
+  "developer": {
+    "name": "Daniel Xutuc (dahngeek)",
+    "url": "http://dahngeek.com"
+  },
+  "default_locale": "es",
+  "orientation" : ["portrait"]
+}
