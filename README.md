@@ -4,6 +4,8 @@ An adaptation of Floppy Bird to work with a tardis from Doctor Who. Made in HTML
 
 Hecho por Dahngeek en Guatemala.
 
+Play it on: https://dahngeek.github.io/FlappyTardis-game/
+
 
 License
 =====
